@@ -11,8 +11,8 @@ When you are using the project please change the **databaseConnect.php** file by
 
 2️⃣ **Create a New Folder in Vscode**: 
 
-```mkdir my-repo
-cd my-repo```
+```mkdir my-repo```
+```cd my-repo```
 
 3️⃣ **Initialize Your New Repository**: initialize the folder as git repo
 
